@@ -1,5 +1,12 @@
-def main():
-    print("Hello World!")
+<!DOCTYPE html>
 
-main()
+<html>
+   <head> 
+       <meta charset="utf-8">
+       <title> My Pag </title>
+   </head>
+   <body>
+       <h1> Hello World!</h1>
+   </body>
     
+</html>
